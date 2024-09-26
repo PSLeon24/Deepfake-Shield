@@ -2,6 +2,8 @@
 ### Objective
 The goal of this project is to advance our research on disrupting deepfakes to a level where it can be presented at CVPR 2025. This project aims to develop effective techniques that can interfere with the creation or dissemination of deepfake content, rendering it unusable or easily identifiable as manipulated.
 
+![image](https://github.com/user-attachments/assets/4a83d5c5-6371-42e5-90c0-5774edbb7c9a)
+
 ### Description
 Deepfake-Shield is a system designed to counter deepfake technology by introducing methods that actively disrupt the deepfake generation process or degrade the quality of deepfakes to make them less convincing. By leveraging adversarial techniques, noise injection, and data manipulation, this project provides a proactive approach to mitigating the risks posed by deepfake technology.
 
