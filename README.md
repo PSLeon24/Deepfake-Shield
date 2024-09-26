@@ -33,7 +33,7 @@ Deepfakes pose a significant threat by generating realistic but fake media that 
 
 ## 1. Requirements Analysis
 ## 2. Design
-![mysystem](https://github.com/user-attachments/assets/f0c6440f-4098-408c-929a-c16ba4f10b69)
+![mysystem](https://github.com/user-attachments/assets/5baf7a4b-20f6-46da-babd-a2927c465820)
 
 ## 3. Implementation
 ## 4. Testing
